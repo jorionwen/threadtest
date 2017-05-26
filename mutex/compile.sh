@@ -1,5 +1,15 @@
 #!/bin/bash
 
+if [ "$1" = "" ]
+then
+    echo "please input cpp file!!!"
+    return
+elif [ ! -f "$1" ]
+then
+    echo "this cpp file not exist!!!"
+    return
+fi
+
 INPUT=`echo $1 | awk '{split($0,a,".");print a[1]}'`
 
 val="all:${INPUT}\n\n"
