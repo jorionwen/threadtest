@@ -1,3 +1,3 @@
-futureÀı×ÓÖĞ£º
+futureä¾‹å­ä¸­ï¼š
  
-Ê¾Àı7¡¢12 ÔÚvs2013 »·¾³±àÒëÔËĞĞÃ»ÓĞÎÊÌâ£¬ µ«ÔÚ ubuntu14.04 gcc 4.8.4 ±àÒë±¨´í£¬Ô­ÒòÊÇgcc 4.8.4 condition_variableÍ·ÎÄ¼şÖĞÎ´ÊµÏÖmake_ready_at_thread_exit¡¢set_value_at_thread_exitº¯Êı£» ±¾ÀıÔÚÊ¹ÓÃcompile½Å±¾Éú³ÉMakefile»áÌáÊ¾³öÀ´¡£
+ç¤ºä¾‹7ã€12 åœ¨vs2013 ç¯å¢ƒç¼–è¯‘è¿è¡Œæ²¡æœ‰é—®é¢˜ï¼Œ ä½†åœ¨ ubuntu14.04 gcc 4.8.4 ç¼–è¯‘æŠ¥é”™ï¼ŒåŸå› æ˜¯gcc 4.8.4 futureå¤´æ–‡ä»¶ä¸­æœªå®ç°make_ready_at_thread_exitã€set_value_at_thread_exitå‡½æ•°ï¼› æœ¬ä¾‹åœ¨ä½¿ç”¨compileè„šæœ¬ç”ŸæˆMakefileä¼šæç¤ºå‡ºæ¥ã€‚
